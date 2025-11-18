@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self)["makoChunk_@antv/x6-sites"]=("undefined"!=typeof globalThis?globalThis:self)["makoChunk_@antv/x6-sites"]||[]).push([["de4105cd"],{de4105cd:function(e,r,a){"use strict";var n,d;n=a("a633687b"),d=a("9ddf9099"),r.version=n.version,r.renderToString=n.renderToString,r.renderToStaticMarkup=n.renderToStaticMarkup,r.renderToReadableStream=d.renderToReadableStream,d.resume&&(r.resume=d.resume);}}]);
+//# sourceMappingURL=de4105cd-async.0ef84957.js.map
