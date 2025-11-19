@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://x6.antv.antgroup.com/sitemap.xml
+Sitemap: https://x6-v2.antv.vision/sitemap.xml
